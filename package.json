@@ -16,5 +16,10 @@
     "url": "https://github.com/Hubpho/heifer/issues"
   },
   "homepage": "https://github.com/Hubpho/heifer#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.29.7",
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7"
+  }
 }

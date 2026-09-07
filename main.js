@@ -1,1 +1,2 @@
-console.log("moo!");
+const name = "boot.dev";
+console.log(`moo, ${name}!`);
