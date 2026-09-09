@@ -1,25 +1,16 @@
 {
   "name": "heifer",
   "version": "1.0.0",
+  "description": "",
+  "author": "boot.dev",
+  "type": "module",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hubpho/heifer.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Hubpho/heifer/issues"
-  },
-  "homepage": "https://github.com/Hubpho/heifer#readme",
-  "description": "",
   "devDependencies": {
-    "@babel/cli": "^7.29.7",
-    "@babel/core": "^7.29.7",
-    "@babel/preset-env": "^7.29.7"
+    "@babel/cli": "^7.26.4",
+    "@babel/core": "^7.26.8",
+    "@babel/preset-env": "^7.26.8"
   }
 }
